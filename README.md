@@ -1,6 +1,6 @@
 <div align="center"><a name="readme-top"></a>
 
-<img height="160" src="https://media.licdn.com/dms/image/v2/D5616AQEIo1FEAxB24w/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1675053595983?e=1730937600&v=beta&t=kLiOR4kSy-4zM_DQNnMgZWU6M1ZC3rjfS3q54I1dRuY">
+<img height="160" src="https://scontent.fkul16-4.fna.fbcdn.net/v/t1.6435-9/199208051_10159321219649181_7891391715564911985_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=b895b5&_nc_ohc=OQEUr_dwCwEQ7kNvgE09JxF&_nc_ht=scontent.fkul16-4.fna&oh=00_AYAn3p30j2XBaA25ccdb-Yc2nov6Bd7ldhDQSu1aUZEXFg&oe=6701E66A">
 
 <h1>Nurfaiz Foat 🐠🐟</h1>
 
