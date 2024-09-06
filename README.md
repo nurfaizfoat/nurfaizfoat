@@ -4,7 +4,7 @@
 
 <h1>Nurfaiz Foat 🐠🐟</h1>
 
-After a five-year creative break, I'm back in the game and ready to be inspired! With almost eight years under my belt as a Senior Product Designer, I've had the pleasure of helping founders bring their ideas to life. I'm still honing my skills to become an even better designer. Right now, I'm super pumped about Large Language Models (LLMs) and Artificial General Intelligence (AGI). Plus, I'm a huge fan of open-source projects!
+After a five-year creative break, I'm back in the game and ready to be inspired! With almost 8 years under my belt as a Senior Product Designer, I've had the pleasure of helping founders bring their ideas to life. I'm still honing my skills to become an even better designer. Right now, I'm super pumped about Large Language Models (LLMs) and Artificial General Intelligence (AGI). Plus, I'm a huge fan of open-source projects!
 
 ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
 ![Affinity Designer](https://img.shields.io/badge/affinity%20desginer-%231B72BE.svg?style=for-the-badge&logo=affinity-designer&logoColor=white)
@@ -25,3 +25,6 @@ After a five-year creative break, I'm back in the game and ready to be inspired!
 
 [social-x-shield]: https://img.shields.io/badge/-%40nurfaizfoat-white?labelColor=black&logo=x&logoColor=white&style=flat-square
 [social-x-link]: https://x.com/nurfaizfoat
+
+
+![](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
