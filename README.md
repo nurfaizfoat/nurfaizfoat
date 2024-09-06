@@ -1,6 +1,6 @@
 <div align="center"><a name="readme-top"></a>
 
-<img height="160" src="https://i.imgur.com/GaGdHt9.png">
+![](https://i.imgur.com/GaGdHt9.png)
 
 <h1>Nurfaiz Foat 🐠🐟</h1>
 
